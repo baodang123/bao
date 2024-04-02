@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "whatseate_server.sln",
+    "projects": [
+		"whatseate_server.Shared\\whatseate_server.Shared.shproj",
+
+		"whatseate_server.Mobile\\whatseate_server.Mobile.csproj",
+
+		"whatseate_server.Wasm\\whatseate_server.Wasm.csproj",
+
+		"whatseate_server.Skia.Gtk\\whatseate_server.Skia.Gtk.csproj",
+    ]
+  }
+}
